@@ -1,0 +1,278 @@
+ul{
+}
+li{
+    text-align: center;
+}
+li:hover{
+    background-color: #e7e7e7;
+}
+body{
+    background-color: rgb(251, 250, 250);
+}
+footer{
+    margin-top: 20px;
+}
+.img-header{
+    width: 100%;
+    height: 220px;
+}
+.header-form{
+    margin-bottom: 0px;
+    margin-top: 10px;
+    margin-left:0px;
+}
+.header-form input{
+    margin-right: 15px;
+}
+.footer{
+    height: 250px;
+    background-color: dimgray;
+}
+.lien{
+    margin-top: 20px;
+    list-style: none;
+}
+.lien li a {
+    color: white;
+}
+.lien li:hover{
+    background-color: dimgray;
+}
+.lien li{
+    margin-top: 5px;
+    text-align: left;
+    font-size: 16px;
+}
+.lien h3{
+    color: black;
+}
+.bordure{
+    margin-top: 15px;
+    border-top: 1px solid white;
+}
+.bordure p{
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+}
+blockquote small{
+    text-align: right;
+    margin-right: 20px;
+}
+.titre{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.titre small{
+    margin-left: 60%;
+    text-align: right;
+    color: darkgray;
+    margin-right: 15px;
+}
+.rebrique small{
+    margin-left: 60%;
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: right;
+    color: darkgray;
+    margin-right: 15px;
+}
+.img-rebrique{
+    padding: 0px;
+}
+.rebrique .panel-body{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.rebrique .contenue{
+    padding-top: 20px;
+}
+.rebrique .panel-body{
+    background-color: rgb(247, 247, 247);    
+}
+.recherche{
+    background-color: rgb(236, 234, 234);
+    padding: 0px;
+}
+.recherche input{
+    margin-bottom: 10px;
+}
+.recherche label{
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+.recherche button{
+    margin-bottom: 20px;
+}
+.nav-tabs li.active a{
+    font-size: 16px;
+    color: #333;
+    background-color:rgb(236, 234, 234);
+}
+.nav-tabs li a{
+    font-size: 16px;
+    color: white;
+}
+.nav-tabs li a:hover{
+    color:#333;
+    background-color: rgb(236, 234, 234);
+}
+.recherche .nav-tabs {
+    background-color: dimgray;
+    padding: 0px;
+}
+.nav-tabs li{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.cour-controle button{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+.table-cour{
+    border-top: 3px solid #ddd;
+    margin-bottom: 30px;
+}
+.cour-controle{
+    margin-left: 70px;
+}
+.footer-cour{
+    margin-top: 10px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.badge-cour{
+    background-color: red;
+}
+.span-cour{
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 65px;
+}
+.contact-enseignant li{
+    list-style: none;
+    text-align: left;
+    display: block;
+}
+.contact-enseignant .filiere{
+    font-size: 14;
+    font-weight: 700;
+}
+.contact-enseignant li > span{
+    margin-left: 20px;
+}
+.contact-enseignant h4{
+    text-align: center;
+}
+.contact-enseignant{
+    background-color: #eceaea;
+    margin-left: 20px;
+}
+.nav-eleve li a{
+    color: black;
+}
+.espace-eleve{
+    background-color: #eceaea;
+    height: 1000px;
+}
+.cour{
+    background-color: white;
+    border: 1px solid black;
+    margin: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.bouton-radio label{
+    margin-right: 25px;
+}
+.bouton-radio input{
+    margin-left: 25px;   
+}
+.legend-rech{
+    text-align: center;   
+}
+.cour-exam{
+    background-color: #eceaea;
+    box-shadow: 5px 5px darkgray;
+    border-radius: 12px 12px;
+    margin-bottom: 25px;
+}
+.cour-exam p,legend,a{
+    text-align: center;
+}
+.cour-exam button{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.cours-trouves{
+    margin-bottom: 35px;   
+}
+
+// ********************
+// ***  eleve  ********
+// ********************
+
+.cour-concerne{
+    margin: 25px;
+}
+.menu-eleve-small{
+    color: blue;
+}
+.planning-eleve-row{
+    margin: 0px;
+}
+.planning-eleve .planning-contenu{
+    background-color: #eceaea;   
+}
+//  ****************************
+//  ******  planning  **********
+//  ****************************
+
+.planning{
+    margin-bottom: 25px;
+    background-color: lightgray;
+}
+.planning-header{
+    padding-top: 10px;
+    margin-top: 15px;
+    background-color: darkorange;
+    border-radius: 20px 20px;
+}
+.planning-header p,h4{
+    text-align: center;   
+}
+.planning .active{
+    border-radius: 0px 0px;
+    border-top-left-radius: 20px 20px;
+    border-top-right-radius: 20px 20px;
+}
+.aff-planning{
+    padding-top: 5px;
+    box-shadow: 5px 5px gray;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: greenyellow;
+    border-radius: 10px 10px;
+}
+.aff-planning p{
+    text-align: center;
+}
+.aff-planning button{
+    width: 100%;   
+}
+.planning-contenu{
+    background-color: darkgray;
+}
+
+// ***************************
+// ****  Admin  **************
+// ***************************
+
+#admin_centre_milieu{
+    background-color: green;
+}
+
+// *****************

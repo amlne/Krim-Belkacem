@@ -1,0 +1,69 @@
+.btn-preinscription{
+    margin-bottom: 20px;   
+}
+.formcolor{
+	background-color:rgb(236, 234, 234);
+}
+.afficheur{
+	background-color:#d1d1d1;
+}
+.btn{
+	margin-bottom:20px;
+}
+.btn-sm{
+	margin:0;
+}
+.panel-heading .glyphicon{
+    margin-left: 40%;
+}
+.control-prinscription{
+    border: 1px solid gray;   
+}
+.admin-form-rebrique , .admin-form-planning{
+    border: 1px solid gray;   
+}
+.a2, .a3{
+    display: none;
+}
+#uploader2, #uploaderImg{
+	display:none;
+}
+#upload{
+	border-radius:15%;
+}
+.upl{
+	margin-bottom:20px;
+}
+.admin-form-planning{
+	padding-left:0;
+	padding-right:0;
+}
+#textRub{
+	resize:none;
+}
+#divDel{
+	display:none;
+}
+.nav-tabs li a{
+	color:black;
+	cursor:pointer;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+	cursor:pointer;
+}
+.nav-tabs > li.active > a:hover{
+	background-color:inherit;
+}
+.nav-tabs > li.active > ul > li > a {
+	background-color:white;
+}
+.nav-tabs > li.active > ul > li > a:hover {
+	background-color:#eceaea;
+}
+.resRech{
+	background-color:lightskyblue;
+	border-radius:50%;
+}
+.headerForm{
+	text-decoration:underline;
+}

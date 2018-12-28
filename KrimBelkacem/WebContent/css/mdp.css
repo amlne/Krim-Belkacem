@@ -1,0 +1,13 @@
+.mdp{
+    margin-top: 150px;
+    padding: 20px;
+    border: 1px solid gray; 
+    border-radius: 20px 20px;
+    box-shadow: 10px 10px gray;
+}
+.mdp input{
+    text-align: center;
+}
+.message-erreur-mdp{
+    color: red;
+}

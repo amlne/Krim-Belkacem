@@ -1,0 +1,16 @@
+.table tbody tr.success td{
+  background-color: lightsteelblue;
+}
+.table > tbody > tr.info > td{
+  background-color: lightblue;
+}
+#tabHead{
+	background-color:lightblue;
+}
+.table-responsive{
+    border-radius: 3%;
+    margin-left: 15px;
+}
+.table{
+    margin-bottom: 0;
+}
